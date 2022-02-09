@@ -1,1 +1,9 @@
-
+ gcc -g p2original.c
+ ./a.out
+Enter the side:
+3
+Enter the side:
+4
+Enter the side:
+5
+The triangle with sides 3,4,5 is a scalene triangle
