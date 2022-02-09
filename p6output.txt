@@ -1,1 +1,5 @@
-
+ gcc -g p6original.c
+ ./a.out
+Enter the string
+anish
+The reversed string is hsina
