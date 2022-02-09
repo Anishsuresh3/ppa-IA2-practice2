@@ -1,1 +1,18 @@
-
+ gcc -g p8original.c
+ ./a.out
+Enter the number of triangles:
+4
+Enter the base and heigth
+1 2
+Enter the base and heigth
+2 3
+Enter the base and heigth
+3 4
+Enter the base and heigth
+4 5
+the smallest of triangles with base and height
+1 Triangle: 1.000000,2.000000
+2 Triangle: 2.000000,3.000000
+3 Triangle: 3.000000,4.000000
+4 Triangle: 4.000000,5.000000
+The area of triangle with base =1.000000 and altitude =2.000000 is 1.000000
