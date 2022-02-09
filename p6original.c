@@ -3,7 +3,6 @@ void input_string(char a[])
 {
     printf("Enter the string\n");
     scanf("%s",a);
-
 }
 void str_reverse(char a[])
 {
